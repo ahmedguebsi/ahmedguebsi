@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-guebsi-6582a7197)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/techwizardmadou)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ahmedguebsi.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ahmedguebsi.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.guebsi@enis.tn)
 
 <br/>
@@ -26,7 +26,7 @@
 
 I'm a passionate **AI Developer** based in Tunisia, currently studying at the **National Engineering School of Sfax (ENIS)**. I specialize in building intelligent systems at the intersection of machine learning, full-stack development, and cloud infrastructure.
 
-- 💼 Portfolio: [ahmedguebsi.github.io/portfolio](https://ahmedguebsi.github.io/portfolio/)
+- 💼 Portfolio: [ahmedguebsi.github.io/](https://ahmedguebsi.github.io/)
 - 🌱 Currently deepening expertise in **LLMs, MLOps, and distributed systems**
 - 🤝 Open to collaboration on **AI/ML projects and open-source contributions**
 - 📫 Reach me at **ahmed.guebsi@enis.tn**
@@ -90,12 +90,12 @@ I'm a passionate **AI Developer** based in Tunisia, currently studying at the **
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedguebsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedguebsi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedguebsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedguebsi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedguebsi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmedguebsi&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 ---
