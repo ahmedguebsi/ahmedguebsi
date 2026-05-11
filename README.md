@@ -90,8 +90,7 @@ I'm a passionate **AI Developer** based in Tunisia, currently studying at the **
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedguebsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180em" src="./assets/top-langs.svg" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedguebsi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
